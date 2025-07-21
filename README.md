@@ -72,7 +72,7 @@ The model is deployed on Hugging Face Spaces, providing:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mr-1o1/bear-me.git
    cd bear-classifier
    ```
 
